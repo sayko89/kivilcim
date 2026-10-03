@@ -3,6 +3,7 @@
 Lumosity'den ilham alan, tarayıcıda çalışan bir bilişsel oyun uygulaması. 37 kısa oyun, adaptif zorluk ve ilerleme takibi içerir. Kayıt, ücret ya da kurulum gerekmez.
 
 Canlı sürüm: https://sayko89.github.io/kivilcim/
+Youtube Link: https://youtu.be/r45NOQXBVIg
 
 Öne çıkanlar
 37 oyun, 6 kategori: Hafıza, Dikkat, Esneklik, Problem Çözme, Görsel Algı, Uzamsal Akıl Yürütme
